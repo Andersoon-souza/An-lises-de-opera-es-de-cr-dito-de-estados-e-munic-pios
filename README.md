@@ -3,7 +3,7 @@
 # Projeto elaborado durante o treinamento de análise de dados da Data Vikings
 
 
-<img src="Arquivo/logo_ministerio_da_fazenda.jpg" alt="logo">
+<img src="Arquivo/imagens/logo_ministerio_da_fazenda.jpg" alt="logo">
 
 Este projeto tem como objetivo analisar os dados públicos dos empréstimos solicitados por entidades públicas. É uma análise descritiva da base de dados, com intuito de demostrar como é realizado um processo de storytelling, com dados públicos e utilizando gráficos mais elaborados.
 
